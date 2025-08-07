@@ -2,9 +2,9 @@
 
 📦 A curated collection of resources for modern web developers — from tools and UI kits to learning materials and productivity boosters.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/awesome-dev-resources)
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/awesome-dev-resources?style=social)
-![GitHub license](https://img.shields.io/github/license/YOUR_USERNAME/awesome-dev-resources)
+![GitHub repo size](https://img.shields.io/github/repo-size/Jasonn699/awesome-dev-resources)
+![GitHub stars](https://img.shields.io/github/stars/Jasonn699/awesome-dev-resources?style=social)
+![GitHub license](https://img.shields.io/github/license/Jasonn699/awesome-dev-resources)
 
 ---
 
